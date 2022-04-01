@@ -1,0 +1,15 @@
+C:\Users\smail\Desktop\CSharpOOPTest\bin\Debug\net6.0\CSharpOOPTest.exe
+C:\Users\smail\Desktop\CSharpOOPTest\bin\Debug\net6.0\CSharpOOPTest.deps.json
+C:\Users\smail\Desktop\CSharpOOPTest\bin\Debug\net6.0\CSharpOOPTest.runtimeconfig.json
+C:\Users\smail\Desktop\CSharpOOPTest\bin\Debug\net6.0\CSharpOOPTest.dll
+C:\Users\smail\Desktop\CSharpOOPTest\bin\Debug\net6.0\CSharpOOPTest.pdb
+C:\Users\smail\Desktop\CSharpOOPTest\obj\Debug\net6.0\CSharpOOPTest.csproj.AssemblyReference.cache
+C:\Users\smail\Desktop\CSharpOOPTest\obj\Debug\net6.0\CSharpOOPTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smail\Desktop\CSharpOOPTest\obj\Debug\net6.0\CSharpOOPTest.AssemblyInfoInputs.cache
+C:\Users\smail\Desktop\CSharpOOPTest\obj\Debug\net6.0\CSharpOOPTest.AssemblyInfo.cs
+C:\Users\smail\Desktop\CSharpOOPTest\obj\Debug\net6.0\CSharpOOPTest.csproj.CoreCompileInputs.cache
+C:\Users\smail\Desktop\CSharpOOPTest\obj\Debug\net6.0\CSharpOOPTest.dll
+C:\Users\smail\Desktop\CSharpOOPTest\obj\Debug\net6.0\refint\CSharpOOPTest.dll
+C:\Users\smail\Desktop\CSharpOOPTest\obj\Debug\net6.0\CSharpOOPTest.pdb
+C:\Users\smail\Desktop\CSharpOOPTest\obj\Debug\net6.0\CSharpOOPTest.genruntimeconfig.cache
+C:\Users\smail\Desktop\CSharpOOPTest\obj\Debug\net6.0\ref\CSharpOOPTest.dll
